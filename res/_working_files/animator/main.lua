@@ -11,7 +11,8 @@ implementation.
 
 This file is released to the public domain (see The Unlicense below). This file
 does not release anything apart from this file to the public domain. That is to
-say - any works alongside this file are _not_ public domain.
+say - any works alongside this file are _not_ public domain (unless, of course,
+they explicitly dedicate themselves).
 
 
 THE UNLICENSE
