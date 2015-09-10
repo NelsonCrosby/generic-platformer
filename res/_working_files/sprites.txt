@@ -1,0 +1,6 @@
+source comb spritesheet;1;;32;
+player.idle.left     = 0,0 1x1 4 2@1
+player.idle.right    = 0,2 1x1 4 2@1
+player.walking.left  = 1,0 1x1 4 8@4
+player.walking.right = 2,0 1x1 4 8@4
+=
