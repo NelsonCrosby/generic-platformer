@@ -11,3 +11,58 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+==========================================================================
+
+This repository contains (or otherwise requires the use of) works where
+the above license and copyright notice cannot apply. Below is a list of
+these works, brief descriptions of copyrights and licenses, and where
+these full copyrights and licenses can be found.
+
+- Work: generic-platformer spritesheet
+  Path:
+    - res/_working_files/sprites.xcf
+    - res/_working_files/sprites.png
+    - res/sprites.scspr
+  Copyright: 2015, Nelson Crosby <ncrosby@sourcecomb.com>
+  License: Creative Commons Attribution 4.0 International
+  License found at:
+    Simplified/Explained: http://creativecommons.org/licenses/by/4.0/
+    Legal terms: http://creativecommons.org/licenses/by/4.0/legalcode
+  Work retrieved from: Created within this repository
+
+- Work: Sprite previewer
+  Path: res/_working_files/animator/main.lua
+  Copyright: Public domain
+  License: The Unlicense
+  License found at: Top of source file
+  Work retrieved from: Created within this repository
+
+- Work: hump.class
+  Path: res/_working_files/animator/class.lua
+  Copyright: 2010-2013 Matthias Richter
+  License: BSD-like
+  License found at: Top of source file
+  Work retrieved from: https://github.com/vrld/hump/blob/038bc9025f1cb850355f4b073357b087b8122da9/class.lua
+  Used in:
+    - Sprite previewer
+    - sc-sprites for Lua and LÖVE 2D
+
+- Work: sc-sprites for Lua and LÖVE 2D
+  Path: res/_working_files/animator/sc-sprites.lua
+  Copyright: 2015, Nelson Crosby <ncrosby@sourcecomb.com>
+  License: ISC
+  License found at: Top of source file
+  Work retrieved from: https://github.com/SourceComb/sc-sprites/blob/0dfadb772e14cf121091c509459d829fe8f43b44/sc-sprites.lua
+  Used in:
+    - Sprite previewer
+
+- Work: LÖVE 2D
+  Path: No copy in this repository (required for some works to function
+        correctly)
+  Copyright: 2006-2015 LOVE Development Team
+  License: zlib/libpng
+  License found at: https://bitbucket.org/rude/love/raw/78ae516b9b911ce6db71d08da553f855832dde07/license.txt
+  Work retrieved from: https://love2d.org/
+  Used in:
+    - Sprite previewer

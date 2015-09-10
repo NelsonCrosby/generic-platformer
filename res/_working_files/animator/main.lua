@@ -52,7 +52,7 @@ local sheet, usage
 
 function love.load (args)
   local parser = new(scspr.Parser, 'nearest')
-  sheet = parser:newSheet('sprites.scspr')
+  sheet = parser:newSheet('../sprites.scspr')
 
   local sprite = scspr._utils.deepget(sheet.sprites, args[2])
   usage = sheet:useSprite(sprite, 100, 100)
