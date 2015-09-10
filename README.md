@@ -4,6 +4,16 @@ This is my generic project for testing out various game engines. This project is
 designed for 2d sprite games.
 
 
+## Implementation info
+
+- **Language**: Lua
+- **Framework**: LÖVE (https://love2d.org/)
+    - **Framework Type**: Framework-calls-source
+    - **Entry point**: `main.lua` (non-configurable)
+    - **Documentation**: https://love2d.org/wiki/love
+- **Phase**: Basic mechanics
+
+
 ## Repo Layout
 
 - `master`: Where various resources (e.g. spritesheets, sounds, levels, etc) go.
